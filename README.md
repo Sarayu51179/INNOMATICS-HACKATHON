@@ -32,19 +32,17 @@ INNOMATICS HACKATHON/
    - Gold vs Regular membership behavior
    - High-value users and restaurants
    - Seasonal trends and top-performing quarters
-4. **Export final dataset**:
-```python
-final_df.to_csv("final_dataset.csv", index=False)
-
+4. **Export final dataset**
+   
 ## Key Insights
 
-Gold members contribute disproportionately to revenue
+1. Gold members contribute disproportionately to revenue
 
-Top cities and cuisines can be identified by total revenue and average order value
+2. Top cities and cuisines can be identified by total revenue and average order value
 
-High-rated restaurants attract more orders
+3. High-rated restaurants attract more orders
 
-The dataset enables user behavior and restaurant performance analysis
+4. The dataset enables user behavior and restaurant performance analysis
 
 ## How to Run
 
